@@ -4,14 +4,14 @@ Replaces the BR with RP and SL costs and adds Total Costs for Ranks and Trees
 
 ## Installation
 ### Option 1:
-    1. Install Tampermonkey
-    2. Open [this Link](https://github.com/NicolasNonsense/WarthunderWiki-Techtree-Costs/raw/main/TechTreeCost/WarthunderWiki-Techtree-Costs.user.js) (Tampermonkey should catch it automatically)
-    3. press Install
+1. Install Tampermonkey    
+2. Open [this Link](https://github.com/NicolasNonsense/WarthuderWiki-Techtree-Costs/raw/main/TechTreeCost/WarthunderWiki-Techtree-Costs.user.js) (Tampermonkey should catch it automatically)
+ 3. press Install
 
 ### Option 2: 
-    1. Install Tampermonkey
-    2. Create a new Script
-    3. Copy and paste the WarthunderWiki-Techtree-Costs.js code into the script
+1. Install Tampermonkey
+2. Create a new Script
+3. Copy and paste the WarthunderWiki-Techtree-Costs.js code into the script
 
 ## Usage
 - On your first visit to a tech tree, all costs will show as **0** .

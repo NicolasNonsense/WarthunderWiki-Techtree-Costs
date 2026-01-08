@@ -3,6 +3,8 @@
 // @namespace    https://wiki.warthunder.com/
 // @version      1.0.0
 // @description  Replaces BR with RP and SL cost; Sums up Cost per Rank and Total.
+// @updateURL    https://raw.githubusercontent.com/NicolasNonsense/WarthunderWiki-Techtree-Costs/main/TechTreeCost/WarthunderWiki-Techtree-Costs.user.js
+// @downloadURL  https://raw.githubusercontent.com/NicolasNonsense/WarthunderWiki-Techtree-Costs/main/TechTreeCost/WarthunderWiki-Techtree-Costs.user.js
 // @match        https://wiki.warthunder.com/ground*
 // @match        https://wiki.warthunder.com/aviation*
 // @match        https://wiki.warthunder.com/helicopters*
